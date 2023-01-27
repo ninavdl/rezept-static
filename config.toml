@@ -1,0 +1,13 @@
+baseURL = 'https://rezept.nv.gw/'
+languageCode = 'de-DE'
+title = 'Rezept'
+theme = 'PaperMod'
+
+params.hideFooter = true
+params.hideSummary = true
+params.disableSpecial1stPost = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

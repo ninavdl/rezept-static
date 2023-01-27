@@ -1,0 +1,5 @@
+<li>
+    <span class="rezept-amount">{{ .Get 0 }}</span> {{ .Get 1 }}
+    {{ .Get 2 }}
+    {{ with .Get 3 }}<small style="color: var(--secondary)">({{ . }})</small>{{ end }}
+</li>
