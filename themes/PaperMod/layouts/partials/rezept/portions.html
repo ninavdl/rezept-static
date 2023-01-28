@@ -1,0 +1,5 @@
+<div class="rezept-portions" style="margin-top: 1em">
+    Portionen: <input type="number" id="rezept-portions-input" value="{{ . }}" data-default="{{ . }}" style="width: 3em; margin-left: 1em; color: var(--primary)" />
+    {{- $portions := resources.Get "js/portions.js" | minify }}
+    <script defer crossorigin="anonymous" src="{{ $portions.RelPermalink }}"></script>
+</div>

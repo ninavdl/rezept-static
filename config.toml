@@ -3,9 +3,10 @@ languageCode = 'de-DE'
 title = 'Rezept'
 theme = 'PaperMod'
 
-params.hideFooter = true
 params.hideSummary = true
 params.disableSpecial1stPost = true
+
+copyright = "&copy; Nina van der Linden 2023 |"
 
 [markup]
   [markup.goldmark]

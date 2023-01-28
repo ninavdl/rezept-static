@@ -1,0 +1,17 @@
+<li>
+    {{- with .amount }}<span class="rezept-amount">{{ . }}</span>{{- end }}
+    {{- with .unit }} {{ . }}{{- end }}
+    {{- if .group }}
+        {{- with .name }}<strong> {{ . }}:</strong>{{- end }}
+        <ul>
+            {{- range .group }}
+            {{- partial "rezept/ingredient.html" . }}
+            {{- end }}
+        </ul>
+    {{- else }}
+    {{- with .name }} {{ . }}{{- end }}
+    {{- end }}
+    {{- with .comment }}
+    <small>({{ . }})</small>
+    {{- end }}
+</li>

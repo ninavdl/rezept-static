@@ -1,0 +1,10 @@
+<div style="margin-left: 1em;">
+    Based on:
+    <ul style="display: inline-block">
+        {{- range .}}
+        <li style="list-style: none; display: inline-block; margin-right: 1em;">
+            <a href="{{ .url }}">{{ .name }}</a>
+        </li>
+        {{- end }}
+    </ul>
+</div>
