@@ -19,11 +19,11 @@ draft: false
 {{</ingredients>}}
 
 {{< recipe >}}
-- Knoblauch in leicht heißes Olivenöl geben, braten bis er anfängt braun zu werden, Fenchelsamen und Chiliflocken hinzugeben und 1min mitbraten
-- Zucchini und viel Salz hinzugeben, gut verrühren und ca 20min schmoren lassen
-- Nudeln al dente kochen
-- etwas Nudelwasser zu Zucchini geben, kurz einkochen lassen
-- Nudeln zur Zucchini geben, verrühren, fertig kochen
-- Butter hinzugeben
-- mit Salz, viel Hefeflocken, Zitronensaft, Pfeffer abschmecken
+1. Knoblauch in leicht heißes Olivenöl geben, braten bis er anfängt braun zu werden, Fenchelsamen und Chiliflocken hinzugeben und 1min mitbraten
+2. Zucchini und viel Salz hinzugeben, gut verrühren und ca 20min schmoren lassen
+3. Nudeln al dente kochen
+4. etwas Nudelwasser zu Zucchini geben, kurz einkochen lassen
+5. Nudeln zur Zucchini geben, verrühren, fertig kochen
+6. Butter hinzugeben
+7. mit Salz, viel Hefeflocken, Zitronensaft, Pfeffer abschmecken
 {{< /recipe >}}

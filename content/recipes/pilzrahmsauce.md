@@ -33,17 +33,17 @@ draft: false
 {{</ingredients>}}
 
 {{< recipe >}}
-- getrocknete Steinpilze in {{<amount 250>}} ml heißem Wasser ca 15min einweichen, beim Abgießen Flüssigkeit auffangen
-- Sojaschnetzel in heißem Wasser ca 10min einweichen, danach mit kaltem Wasser ausspülen und ausdrücken
-- Sojaschnetzel ca 10min marinieren
-- Champignons ohne Öl in mittelheißen Topf geben, leicht salzen, regelmäßig rühren und warten bis Flüssigkeit austritt und verkocht ist
-- Butter hinzugeben und Champignons bräunen lassen
-- Champignons rausnehmen und beiseitestellen
-- Sojaschnetzel scharf anbraten, Zwiebeln hinzugeben und etwas mitbraten. Knoblauch und Thymian für zwei Minuten mitbraten
-- 1 EL Mehl dazugeben und gut verruhren, 1min mitbraten
-- mit Weißwein und der Steinpilzbrühe ablöschen, etwas einkochen lassen
-- Pilze, Sahne und Creme fraiche hinzugeben und ca 15min köcheln lassen
-- Nudeln al dente Kochen
-- etwas Nudelwasser zur Sauce geben, kurz einkochen, Nudeln hinzugeben und fertig kochen
-- mit Salz, weißem und schwarzen Pfeffer, Muskat, Zitronensaft, Petersilie abschmecken
+1. getrocknete Steinpilze in {{<amount 250>}} ml heißem Wasser ca 15min einweichen, beim Abgießen Flüssigkeit auffangen
+2. Sojaschnetzel in heißem Wasser ca 10min einweichen, danach mit kaltem Wasser ausspülen und ausdrücken
+3. Sojaschnetzel ca 10min marinieren
+4. Champignons ohne Öl in mittelheißen Topf geben, leicht salzen, regelmäßig rühren und warten bis Flüssigkeit austritt und verkocht ist
+5. Butter hinzugeben und Champignons bräunen lassen
+6. Champignons rausnehmen und beiseitestellen
+7. Sojaschnetzel scharf anbraten, Zwiebeln hinzugeben und etwas mitbraten. Knoblauch und Thymian für zwei Minuten mitbraten
+8. 1 EL Mehl dazugeben und gut verruhren, 1min mitbraten
+9. mit Weißwein und der Steinpilzbrühe ablöschen, etwas einkochen lassen
+10. Pilze, Sahne und Creme fraiche hinzugeben und ca 15min köcheln lassen
+11. Nudeln al dente Kochen
+12. etwas Nudelwasser zur Sauce geben, kurz einkochen, Nudeln hinzugeben und fertig kochen
+13. mit Salz, weißem und schwarzen Pfeffer, Muskat, Zitronensaft, Petersilie abschmecken
 {{< /recipe >}}

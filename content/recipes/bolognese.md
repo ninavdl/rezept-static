@@ -29,13 +29,14 @@ draft: false
 {{</ingredients>}}
 
 {{< recipe >}}
-- Knoblauch in Olivenöl anbraten bis dieser leicht braun wird, dann Knoblauch entfernen
-- Zwiebeln, Karotte und Sellerie in dem Olivenöl und etwas Butter mit etwas Salz schmoren bis es leicht braun wird, mit Wein ablöschen, leicht einkochen
-- währenddessen Hack heiß anbraten, tomatisieren und mit Wein ablöschen und einen Schluck Milch dazugeben, leicht einkochen
-- Hack zu Gemüse geben
-- Tomaten dazugeben
-- 15min kochen, Ofen auf 120° vorheizen
-- Gewürze hinzugeben, für 60min im Ofen ohne Decken köcheln lassen
-- Nudeln al dente kochen
-- Topf aus Ofen holen, mit etwas Nudelwasser aufkochen, Nudeln hinzugeben und fertig kochen
--  mit Salz, Pfeffer, Hefeflocken, Zitronensaft, Basilikum abschmecken{{< /recipe >}}
+1. Knoblauch in Olivenöl anbraten bis dieser leicht braun wird, dann Knoblauch entfernen
+2. Zwiebeln, Karotte und Sellerie in dem Olivenöl und etwas Butter mit etwas Salz schmoren bis es leicht braun wird, mit Wein ablöschen, leicht einkochen
+3. währenddessen Hack heiß anbraten, tomatisieren und mit Wein ablöschen und einen Schluck Milch dazugeben, leicht einkochen
+4. Hack zu Gemüse geben
+5. Tomaten dazugeben
+6. 15min kochen, Ofen auf 120° vorheizen
+7. Gewürze hinzugeben, für 60min im Ofen ohne Decken köcheln lassen
+8. Nudeln al dente kochen
+9. Topf aus Ofen holen, mit etwas Nudelwasser aufkochen, Nudeln hinzugeben und fertig kochen
+10.  mit Salz, Pfeffer, Hefeflocken, Zitronensaft, Basilikum abschmecken
+{{< /recipe >}}

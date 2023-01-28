@@ -21,9 +21,9 @@ draft: false
 {{</ingredients>}}
 
 {{< recipe >}}
-- Ofen auf 200°C Umluft vorheizen
-- Speck scharf anbraten, Zwiebeln, Lauch und Thymian hinzugeben, leicht Salzen und kurz andünsten
-- Seidentofu, Joghurt, Hefeflocken, Kala Namak fein pürieren, mit Kala Namak, Salz, Pfeffer, Muskat abschmecken (es muss leicht übersalzen sein)
-- Gemüse mit Seidentofuschlonze mischen
-- Quicheteig in Form geben, Füllung hinzugeben, mit Reibekäse toppen und 30min backen
+1. Ofen auf 200°C Umluft vorheizen
+2. Speck scharf anbraten, Zwiebeln, Lauch und Thymian hinzugeben, leicht Salzen und kurz andünsten
+3. Seidentofu, Joghurt, Hefeflocken, Kala Namak fein pürieren, mit Kala Namak, Salz, Pfeffer, Muskat abschmecken (es muss leicht übersalzen sein)
+4. Gemüse mit Seidentofuschlonze mischen
+5. Quicheteig in Form geben, Füllung hinzugeben, mit Reibekäse toppen und 30min backen
 {{< /recipe >}}
