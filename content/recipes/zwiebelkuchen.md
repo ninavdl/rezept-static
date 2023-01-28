@@ -11,10 +11,10 @@ ingredients:
         - amount: 250
           unit: g
           name: Weizenmehl 550
-        - amount: 150
+        - amount: 130
           unit: g
           name: Wasser
-        - amount: 15
+        - amount: 10
           unit: g
           name: Olivenöl
         - amount: 5
