@@ -50,9 +50,12 @@ ingredients:
         - amount: 1.5
           unit: EL
           name: Kichererbsenmehl
+        - amount: 1
+          unit: Schluck
+          name: Weißwein
         - name: Hefeflocken
         - name: Muskat
-        - name: Flüssigrauch
+        - name: Paprikapulver
     - amount: 10
       unit: g
       name: Frische Petersilie oder Schnittlauch
@@ -70,7 +73,8 @@ ingredients:
 
 1. Ofen auf 200°C Ober/Unterhitze vorheizen
 2. Speck scharf anbraten
-3. Gemüsezwiebeln, Kümmel, Thymian und etwas Salz dazugeben und etwas andünsten
+3. Gemüsezwiebeln, Kümmel, Thymian und etwas Salz dazugeben und etwas andünsten.
+   Mit Weißwein ablöschen und eine Minute weiterkochen.
 4. Seidentofu, Speisestärke und Kichererbsenmehl pürieren
 5. Mit Salz, Pfeffer, Muskat, Hefeflocken abschmecken (es muss leicht übersalzen sein, da die Zwiebeln auch noch etwas vom Salz absorbieren werden)
 6. Gemüsezwiebeln und Speck in die Seidentofumischung geben
