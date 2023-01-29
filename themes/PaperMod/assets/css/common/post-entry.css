@@ -40,6 +40,7 @@
     border: 1px solid var(--border);
     background-color: var(--entry);
     height: 10em;
+    position: relative;
 }
 
 .post-entry .gallery-image-container {
@@ -55,16 +56,21 @@
 }
 
 .post-entry .gallery-text {
-    height: 5em;
-    margin-top: -5em;
-    padding: 1em;
+    padding: 0.5em 1em;
     background: var(--gallery-text-background);
     border-bottom-left-radius: var(--radius);
     border-bottom-right-radius: var(--radius);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 .post-entry:active {
     transform: scale(0.96);
+}
+
+.post-entry:hover {
+    transform: scale(1.04);
 }
 
 .tag-entry .entry-cover {
