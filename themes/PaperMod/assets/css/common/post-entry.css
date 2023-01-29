@@ -1,10 +1,11 @@
+.rezept-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--gap);
+}
+
 .first-entry {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 320px;
-    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+
 }
 
 .first-entry .entry-header {
@@ -34,13 +35,28 @@
 }
 
 .post-entry {
-    position: relative;
-    margin-bottom: var(--gap);
-    padding: var(--gap);
-    background: var(--entry);
     border-radius: var(--radius);
     transition: transform 0.1s;
     border: 1px solid var(--border);
+    background-color: var(--entry);
+    height: 10em;
+}
+
+.post-entry .gallery-image-container {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    border-radius: var(--radius);
+}
+
+.post-entry .gallery-text {
+    height: 5em;
+    margin-top: -5em;
+    padding: 1em;
+    background: var(--gallery-text-background);
+    border-bottom-left-radius: var(--radius);
+    border-bottom-right-radius: var(--radius);
 }
 
 .post-entry:active {
@@ -72,13 +88,6 @@
     font-size: 13px;
 }
 
-.entry-link {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-}
 
 .entry-cover,
 .entry-isdraft {
