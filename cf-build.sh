@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-hugo --baseURL "$CF_PAGES_URL"
+hugo --baseURL "$DEPLOY_URL"
