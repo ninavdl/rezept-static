@@ -3,6 +3,8 @@ title: "Bolognese"
 date: 2023-01-27T16:55:04+01:00
 draft: false
 
+emoji: 🍝
+
 portions: 6
 ingredients:
     - amount: 250

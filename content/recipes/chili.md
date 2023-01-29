@@ -5,6 +5,8 @@ draft: false
 
 portions: 6
 
+emoji: 🌶️
+
 ingredients:
     - amount: 250
       unit: g

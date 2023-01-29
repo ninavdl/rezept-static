@@ -6,7 +6,7 @@ theme = 'PaperMod'
 params.hideSummary = true
 params.disableSpecial1stPost = true
 
-copyright = "&copy; Nina van der Linden 2023 |"
+copyright = "&copy; Nina van der Linden 2023 | Fotos: Lea Schirp | "
 
 [markup]
   [markup.goldmark]
