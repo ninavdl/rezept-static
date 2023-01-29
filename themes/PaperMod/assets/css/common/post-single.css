@@ -28,12 +28,90 @@
     box-shadow: 0 1px 0 var(--secondary);
 }
 
+#rezept-image {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 1;
+    text-align: center;
+}
+
+#rezept-ingredients {
+    grid-column: 1;
+    grid-row: 2
+}
+
+#rezept-ingredients ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+#rezept-ingredients li small {
+    color: var(--secondary);
+}
+
+#rezept-ingredients li:not(.rezept-ingredient-group) + li.rezept-ingredient-group {
+    padding-top: 0.5em;
+}
+
+.rezept-ingredient-group {
+    border: none;
+    margin-left: -0.5em;
+}
+
+.rezept-ingredient-group:not(:last-child) {
+    padding-bottom: 0.5em;
+}
+
+.rezept-amount, .rezept-unit {
+    color: var(--secondary);
+}
+
+#rezept-ingredients li strong {
+    display: block;
+    margin-bottom: 0.25em;
+}
+
+#rezept-recipe {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+
 .breadcrumbs a {
     font-size: 16px;
 }
 
 .post-content {
-    color: var(--content);
+    color: var(--content);   
+}
+
+@media screen and (min-width: 1200px) {
+    .post-header {
+        width: 900px;
+        display: block;
+        margin-left: 150px;
+    }
+
+    .post-content {
+        display: grid;
+        grid-template-columns: 2fr 4fr;
+        grid-template-rows: repeat(2, auto);
+        grid-column-gap: 2em;
+        grid-row-gap: 0px; 
+        width: 100%;
+        margin-bottom: 2em;
+    }
+
+    #rezept-ingredients {
+        border-right: 1px solid var(--tertiary);
+    }
+
+    #rezept-image img {
+        width: 900px;
+        display: block;
+        margin-left: 150px
+    }
+    
 }
 
 .post-content h3,

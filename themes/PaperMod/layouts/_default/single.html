@@ -34,19 +34,23 @@
   {{- if .Content }}
   <div class="post-content">
     {{- with .Params.image }}
-    {{- $image := ($.Resources.GetMatch .).Resize "720x" }}
-    <img src="{{ $image.RelPermalink }}" width="100%">
+    {{- $image := ($.Resources.GetMatch .).Resize "900x" }}
+    <section id="rezept-image">
+      <img src="{{ $image.RelPermalink }}" alt="{{ $.Title }}" width="100%">
+    </section>
     {{- end }}
 
     {{- with .Params.ingredients }}
     {{- partial "rezept/ingredient_list.html" . -}}
     {{- end }}
 
-    <h2>Rezept</h2>
+    <section id="rezept-recipe">
+      <h2>Rezept</h2>
 
-    {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}{{ .Content }}{{ end }}
+      {{- if not (.Param "disableAnchoredHeadings") }}
+      {{- partial "anchored_headings.html" .Content -}}
+      {{- else }}{{ .Content }}{{ end }}
+    </section>
   </div>
   {{- end }}
 

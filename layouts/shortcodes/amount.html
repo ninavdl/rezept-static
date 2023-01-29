@@ -1,1 +1,4 @@
 <span class="rezept-amount">{{ .Get 0 }}</span>
+{{- with .Get 1}}
+<span class="rezept-unit">{{ . }}</span>
+{{- end }}

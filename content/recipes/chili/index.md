@@ -51,7 +51,7 @@ ingredients:
 
 1. Getrocknete Chilis bei hoher Hitze ohne Öl rösten, dann 10min in heißem Wasser einweichen.
 2. Gewürze bei hoher Hitze rösten, dann mahlen.
-3. Getrocknete Chilis, Knoblauch, {{<amount 2>}} EL Kidneybohnen mit etwas Bohnenwasser pürieren.
+3. Getrocknete Chilis, Knoblauch, {{<amount 2 EL>}} Kidneybohnen mit etwas Bohnenwasser pürieren.
 4. Hack und Zwiebeln anbraten, am Ende Gewürze dazugeben und kurz mitanbraten.
 5. Mit pürierter Mischung ablöschen
 6. Tomaten und abgetropfte Bohnen hinzugeben.

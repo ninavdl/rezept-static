@@ -74,7 +74,7 @@ ingredients:
       name: Fusilli
 ---
 
-1. getrocknete Steinpilze in {{<amount 250>}} ml heißem Wasser ca 15min einweichen, beim Abgießen Flüssigkeit auffangen
+1. getrocknete Steinpilze in {{<amount 250 ml>}} heißem Wasser ca 15min einweichen, beim Abgießen Flüssigkeit auffangen
 2. Sojaschnetzel in heißem Wasser ca 10min einweichen, danach mit kaltem Wasser ausspülen und ausdrücken
 3. Sojaschnetzel ca 10min marinieren
 4. Champignons ohne Öl in mittelheißen Topf geben, leicht salzen, regelmäßig rühren und warten bis Flüssigkeit austritt und verkocht ist

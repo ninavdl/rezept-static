@@ -1,6 +1,6 @@
-<li>
+<li {{- if .group}} class="rezept-ingredient-group"{{end}}>
     {{- with .amount }}<span class="rezept-amount">{{ . }}</span>{{- end }}
-    {{- with .unit }} {{ . }}{{- end }}
+    {{- with .unit }} <span class="rezept-unit">{{ . }}</span>{{- end }}
     {{- if .group }}
         {{- with .name }}<strong> {{ . }}:</strong>{{- end }}
         <ul>

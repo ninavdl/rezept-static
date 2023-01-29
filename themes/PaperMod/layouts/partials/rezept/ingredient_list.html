@@ -1,6 +1,8 @@
-<h2>Zutaten</h2>
-<ul>
-{{- range .}}
-    {{- partial "rezept/ingredient.html" . -}}
-{{- end }}
-</ul>
+<section id="rezept-ingredients">
+    <h2>Zutaten</h2>
+    <ul id="rezept-ingredients-list">
+    {{- range .}}
+        {{- partial "rezept/ingredient.html" . -}}
+    {{- end }}
+    </ul>
+</section>
