@@ -52,7 +52,7 @@
     <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
       {{- $isHidden := (.Site.Params.cover.hidden | default .Site.Params.cover.hiddenInList) }}
       {{- if .Params.image }}
-      {{- $image := (.Resources.GetMatch .Params.image).Resize "720x" }}
+      {{- $image := (.Resources.GetMatch .Params.image).Resize "900x" }}
       <div class="gallery-image-container" style="background-image: url({{ $image.RelPermalink }})">
       </div>
       {{ else }}
