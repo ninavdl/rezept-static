@@ -5,6 +5,8 @@ draft: false
 
 emoji: 🧁
 
+image: heidelbeermuffins.jpg
+
 portions: 16
 ingredients:
     - name: Streusel
@@ -38,10 +40,13 @@ ingredients:
         - amount: 200
           unit: g
           name: Zucker
+        - amount: 4
+          unit: g
+          name: Salz
         - amount: 2
           unit: EL
           name: gemahlene Leinsamen
-          comment: in etas Wasser eingeweicht
+          comment: in etwas Wasser eingeweicht
         - amount: 30
           unit: g
           name: Rapsöl
@@ -51,6 +56,7 @@ ingredients:
         - amount: 250
           unit: g
           name: Joghurt
+          comment: ungesüßt
         - amount: 16
           unit: g
           name: Vanillezucker
@@ -75,7 +81,7 @@ ingredients:
 1. Ofen auf 220°C Ober/Unterhitze vorheizen
 2. Zutaten für die Streusel vermischen und in den Kühlschrank stellen
 3. Heidelbeeren für und Zucker für die Sauce mischen, bei niedriger Hitze für ca 10min einkochen. Dabei gelegentlich rühren. Am Ende Sauce passieren.
-4. Trockene und feuchte Zutatenvermischen für den Teig separat mischen. Zusammengeben und vermischen.
+4. Trockene und feuchte Zutaten für den Teig separat mischen. Zusammengeben und vermischen.
 5. Heidelbeeren für den Teig mit etwas Mehl bestreuen und unter den Teig heben
 6. Teig in Muffinförmchen füllen. Sauce darüber geben und mit einem Stäbchen leicht einrühren.
 7. Muffins mit Streuseln toppen.
